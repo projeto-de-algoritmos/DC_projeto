@@ -90,14 +90,18 @@ function findSubsequence({ A, maxIndex, pre }) {
   console.log(solution);
   console.log(solutionMeses);
 
-  showAnswer();
+  showAnswer(solutionMeses);
 }
 
-function showAnswer() {
+function showAnswer(sol) {
   var div = document.getElementById('resposta');
 
   var ans = document.createElement('p');
 
-  ans.innerHTML = 'teste';
+  ans.id = 'respostap';
+  ans.innerHTML =
+    'A maior subsequência de meses onde seu lucro aumentou foi: ' +
+    sol.join(', ') +
+    '.';
   div.appendChild(ans);
 }

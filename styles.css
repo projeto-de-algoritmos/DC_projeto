@@ -33,6 +33,13 @@ h1 {
   margin-top: 8rem;
 }
 
+.instrucoes {
+  margin: auto;
+  margin-top: 2rem;
+
+  font-size: large;
+}
+
 form {
   display: flex;
   flex-direction: column;
@@ -42,11 +49,14 @@ form {
 button {
   width: 15rem;
   height: 6rem;
-  margin: 3rem auto;
+  margin: 5rem auto;
 
+  margin-top: 20rem;
   border-radius: 0.8rem;
 
   margin-bottom: 1.8rem;
+
+  font-size: large;
 
   border-style: none;
   display: flex;
@@ -91,4 +101,11 @@ label {
   display: flex;
   flex-direction: column;
   width: 6rem;
+}
+
+#respostap {
+  font-size: large;
+  margin: auto;
+
+  margin-top: 5rem;
 }
