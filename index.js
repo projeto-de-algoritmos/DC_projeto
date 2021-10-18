@@ -1,4 +1,4 @@
-document.getElementById('botao').addEventListener('click', calcular, false);
+document.getElementById('botao').addEventListener('click', calculate, false);
 var objeto = {};
 var meses = [
   'janeiro',
@@ -15,7 +15,7 @@ var meses = [
   'dezembro',
 ];
 
-function calcular() {
+function calculate() {
   objeto['janeiro'] = parseInt(document.getElementById('janeiro').value);
   objeto['fevereiro'] = parseInt(document.getElementById('fevereiro').value);
   objeto['marco'] = parseInt(document.getElementById('marco').value);
@@ -89,4 +89,15 @@ function findSubsequence({ A, maxIndex, pre }) {
 
   console.log(solution);
   console.log(solutionMeses);
+
+  showAnswer();
+}
+
+function showAnswer() {
+  var div = document.getElementById('resposta');
+
+  var ans = document.createElement('p');
+
+  ans.innerHTML = 'teste';
+  div.appendChild(ans);
 }
