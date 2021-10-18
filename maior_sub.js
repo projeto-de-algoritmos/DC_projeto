@@ -8,14 +8,10 @@ function lis(A, n) {
       }
     }
   }
-  // Pick maximum of all LIS values
 
   return L;
 }
 
-// Driver code
 let arr = [2, 3, 14, 5, 9, 8, 4];
 let n = arr.length;
 console.log('Length of lis is ' + lis(arr, n) + '\n');
-
-// This code is contributed by avijitmondal1998
