@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  margin: auto;
+  margin-top: 8rem;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 5rem;
+}
+
+.inputs {
+  margin-top: 7rem;
+  display: flex;
+  justify-content: space-around;
+}
+
+.inputs input {
+  width: 7rem;
+  height: 2rem;
+}
+
+.campo {
+  display: flex;
+  flex-direction: column;
+  width: 6rem;
+}
