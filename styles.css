@@ -26,6 +26,8 @@ body {
   box-sizing: border-box;
   font-family: sans-serif;
   background-color: #f0f0f7;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 h1 {
@@ -106,6 +108,6 @@ label {
 #respostap {
   font-size: large;
   margin: auto;
-
-  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
 }
