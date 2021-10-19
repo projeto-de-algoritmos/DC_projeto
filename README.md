@@ -19,12 +19,20 @@ Apresentar um dashboard de lucros
 
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: javascript<br>
+
+```abra o index.js no seu navegador```
+
+
+
+
+
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+
+```preencha os campos referentes a cada mês```
+
+```clique no botão Enviar para ver o resultado```
 
 
 
