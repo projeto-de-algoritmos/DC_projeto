@@ -13,7 +13,10 @@
 Apresentar um dashboard de lucros
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+<img width="55%" src="./images/image1.png" alt="NetRecipes Image"/>
+<img width="55%" src="./images/image2.png" alt="NetRecipes Image"/>
+<img width="55%" src="./images/image3.png" alt="NetRecipes Image"/>
+
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
