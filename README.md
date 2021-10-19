@@ -21,7 +21,7 @@ Apresentar um dashboard de lucros
 ## Instalação 
 **Linguagem**: Javascript<br>
 
-```abra o index.js no seu navegador```
+```abra o index.html no seu navegador```
 
 
 
