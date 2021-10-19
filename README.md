@@ -10,7 +10,7 @@
 | 19/0055294  |  Thiago Siqueira Gomes |
 
 ## Sobre 
-Apresentar um dashboard de lucros
+Apresenta um dashboard de lucros, o usuário digita seus lucros mensais no periodo de janeiro até dezembro, e o programa calcula a subsequencia mais longa onde ele teve lucros crescentes.
 
 ## Screenshots
 <img width="55%" src="./images/image1.png" alt="NetRecipes Image"/>
