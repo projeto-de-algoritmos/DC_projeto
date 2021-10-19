@@ -21,10 +21,10 @@ Temas:
 |Matrícula | Aluno |
 | -- | -- |
 | 19/0011602  |  Christian Fleury Alencar Siqueira  |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0055294  |  Thiago Siqueira Gomes |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Apresentar um dashboard dos lucros
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
